@@ -1,1 +1,1 @@
-# Taxi_driver_trajectory
+In this project, we will use a Siamese network as a few-shot learning model to detect Taxi driver’s ID from their trajectory. We have only 5 days of data for each driver. Siamese networks have been proven efficient when there is less number of data.
